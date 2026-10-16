@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Directory.Build.props" />
+  </Folder>
+  <Project Path="CargoTrack.Business/CargoTrack.Business.csproj" />
+  <Project Path="CargoTrack.DataAccess/CargoTrack.DataAccess.csproj" />
+  <Project Path="CargoTrack.DTO/CargoTrack.DTO.csproj" />
+  <Project Path="CargoTrack.Entity/CargoTrack.Entity.csproj" />
+  <Project Path="CargoTrack.WebUI/CargoTrack.WebUI.csproj" />
+</Solution>
